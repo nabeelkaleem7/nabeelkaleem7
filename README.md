@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Nabeel Kaleem 👋
 
-<!--
-**nabeelkaleem7/nabeelkaleem7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Systems Technician graduate currently studying Cybersecurity at Seneca Polytechnic. 
 
-Here are some ideas to get you started:
+## 🎓 Education
+- **Honours Bachelor of Information Technology - Cybersecurity** - Seneca Polytechnic *(In Progress)*
+- **Computer Systems Technician** - Seneca Polytechnic *(Completed)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- **Networking:** TCP/IP, DNS, DHCP
+- **Operating Systems:** Linux, Windows, Windows Server
+- **Tools:** Active Directory, VirtualBox, VMware, Bash
+
+## 🤝 Contact
+Open to IT opportunities and new connections. LinkedIn: www.linkedin.com/in/nabeelkaleem1
